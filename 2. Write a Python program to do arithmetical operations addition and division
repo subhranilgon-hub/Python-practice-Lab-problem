@@ -1,0 +1,11 @@
+#Addition
+a= float(input("Enter the first number:"))
+b= float(input("Enter the second number:"))
+sum= a+b
+print("The Sum of first and second num=",sum)
+
+#Division
+a= float(input("Enter the first number:"))
+b= float(input("Enter the second number:"))
+div= a/b
+print(div)
